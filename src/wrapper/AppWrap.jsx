@@ -1,4 +1,4 @@
-import { NavigationDots, SocialMedia } from '../components';
+import { NavigationDots, SocialMedia } from '../Components';
 
 const AppWrap = (Component, idName, classNames) => function HOC() {
   return (    
